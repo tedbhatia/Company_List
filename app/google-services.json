@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034800505541",
+    "firebase_url": "https://company-list-b0dbf.firebaseio.com",
+    "project_id": "company-list-b0dbf",
+    "storage_bucket": "company-list-b0dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034800505541:android:4b21de0e5e60ce72",
+        "android_client_info": {
+          "package_name": "dungeon.dr.company_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034800505541-o3221tljiqe84mm2idrtbvi9d9jlotvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dungeon.dr.company_list",
+            "certificate_hash": "D35E8B885781DD60F5559109612016513BEF4511"
+          }
+        },
+        {
+          "client_id": "1034800505541-cf4fvq65rrr62lcjs3g9p08fivrin569.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXp2QOVLjInRAiA_UvXvoFzixI7DbYkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034800505541-cf4fvq65rrr62lcjs3g9p08fivrin569.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

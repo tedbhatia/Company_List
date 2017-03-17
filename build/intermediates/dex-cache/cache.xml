@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_78c8d9552dc24dbd6a162b9d5d9a16f9e5618d6b.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_2f09a04e0f359b6115d766076a2014d71f7fdc15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2_10766bc7760a2623665a030f1f172ebf07f58625.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\javawriter-2.1.1_3a70438c69307af15b46b766b3f9039cf4e8ccd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\hamcrest-library-1.3_cfb08c83ec649b728cd9d5c990aa02934e7b3cea.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support.test-rules-0.5_21f4e3cb3b2787af6064a8192a97e298d67c8ac4.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_d20421eb16599160bd4bc5c1b450a87d42f28d40.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.2_ac8785d64f5bcf6670690c3a95d372b71a878f83.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8345b409944b40be084b40a30823fbf6c52fb7a9">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\instant-run_e774a5274b76ceec0be38c6629366fe6658942bc.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_c7b4c748142725811dc3df7490f0c39a0c259d44.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_c92ceb96db6e5087152e3d5c886ca6aadde73afb.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_6c0535daaf4e82e98f73221b3c9217cf29d8d2bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_5cc8b836bb4ad2c735ce686b62aa293b211ff2db.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_ddc1107d45181adff9293897a67fa859bc43d518.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_d0f6e6fa2c20c009532f93efd520ded33584ecd6.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_ff964fa67640153cdd4d332e26f8cee712b2d724.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_cff4a58abe02e4a5581a8817edf0cebfe5a85dba.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-core-2.2.2_cde9b20b2aa08b1c395f33db8f17307585d2a362.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\javax.inject-1_348a3de014e793136d53a1a73f18058cecf9467f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\junit-4.12_5f6578d4c9b1b838744ed59fb7562e334479a6f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_202c91e555ee58c0fec1465a4a8d2352e7ba33fa.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_e4ae9749061306cf068bd191e77a5d7467a497d3.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_f60898b968143a48be4ded47231f27d9e3158402.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_e9281da56f060d79a8883073c7dc7825f154ff6c.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_5815b3a03f5fead672709a17b6a3701a5ad1270f.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="799203be5fa8918efb5b4cb593913b9e1721afac">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3d3dc1e18a437e9e75d57a538a5672b9b9a07b20.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_7ed3d16eeec2c0edbcd5f77f06975972dc66ebbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\hamcrest-integration-1.3_b73e51d5779344e9101a6a698bf667f4b0d9deb9.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_09ebe9f2d0eecd9b3d9f980f5c60238f8e70858d.jar" />
+    </item>
+    <item
+        jar="E:\Android\Company_List\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\com.android.support.test-runner-0.5_ad4cee9e76e342b3831b64d87ae7a3bfc65090c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tejas\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\Android\Company_List\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_e632b122797860c9b595afbab8503eb17b79455e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+   <!-- <searchable xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@id/searchable"
+        android:hint="@string/search_hint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </searchable>-->
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_main"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:title="@string/app_name"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:layout_below="@+id/toolbar_main"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="0dp" />
+
+    <ProgressBar
+        android:id="@+id/circular_progress"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"
+        android:theme="@style/CircularProgress"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
