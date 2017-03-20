@@ -36,30 +36,24 @@ public class MainActivity extends AppCompatActivity {
     private ListView ayu_listview;
     private ProgressBar circular_progress;
 
+    /* The onCreate method sets up all basic visual and backend references to the XML file like the Toolbar and launches them.  
+    It also sets the various visual properties to the XML features like the color.*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        /*list_users.add("hema");list_users.add("rekha");list_users.add("jaya");list_users.add("aur");list_users.add("sushma");
-        list_users.add("sabki");list_users.add("pasand");list_users.add("nirma");*/
-
-       //toolbar
+       
+        //toolbar
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar_main);
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle(R.string.app_name);//other than app name string goes the activity name
         toolbar.setTitleTextColor(Color.parseColor("#FFFFFF"));
 
-
-
-
         //custom adapter
-        /*ListAdapter ayu_adapter = new CustomAdapter(this, list_users);
-        Intent i = new Intent(this,INfo_Activity.class);*/
         circular_progress = (ProgressBar)findViewById(R.id.circular_progress);
         ayu_listview = (ListView)findViewById(R.id.listView);
 
-        /*ayu_listview.setAdapter(ayu_adapter);*/
-
+        //Sets up the list view of the basic page and links it to the intent of the details of the Car
         ayu_listview.setOnItemClickListener(
                 new AdapterView.OnItemClickListener() {
                     @Override
@@ -80,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         addFirebaseEventListener();
 
     }
-
+	//Sets up the firebase event listener which links the Firebase data on the cloud and create a list of those snapshots
     private void addFirebaseEventListener() {
         //progressing
         circular_progress.setVisibility(View.VISIBLE);
@@ -110,6 +104,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //Initialises Firebase
     private void initFirebase() {
         FirebaseApp.initializeApp(this);
         mFirebaseDatabase = FirebaseDatabase.getInstance();
