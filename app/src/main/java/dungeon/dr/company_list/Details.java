@@ -19,6 +19,8 @@ public class Details extends AppCompatActivity {
     private FirebaseDatabase mFirebaseDatabase;
     private DatabaseReference mDatabaseReference;
     private String name;
+
+    // The onCreate method sets up all basic visual and backend references to the XML file like the name and launches firebase.  
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,6 +54,7 @@ public class Details extends AppCompatActivity {
         addFirebaseEventListener();
     }
 
+    //Sets the value fetched from the Firebase database to the XML tag
     private void addFirebaseEventListener() {
 
 
@@ -81,13 +84,16 @@ public class Details extends AppCompatActivity {
             }
         });
     }
-
+    
+    //Fetches the string
     private String fetcher(String key){
         if(key==null){
             return "Unavailable";
         }
         else return key;
     }
+
+    //Initialises Firebase
     private void initFirebase() {
         FirebaseApp.initializeApp(this);
         mFirebaseDatabase = FirebaseDatabase.getInstance();
