@@ -39,7 +39,8 @@ public class INfo_Activity extends AppCompatActivity {
     private ProgressBar circular_progress;
     private String name;
 
-
+    /* The onCreate method sets up all basic visual and backend references to the XML file like the Toolbar and launches them.  
+    It also sets the various visual properties to the XML features like the color.*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,8 +53,6 @@ public class INfo_Activity extends AppCompatActivity {
            return;
         }
        name = info_bundle.getString("car_name");
-       /*final TextView info_name = (TextView)findViewById(R.id.info_name);
-       info_name.setText(name);*/
 
         //toolbar
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar_main);
@@ -61,9 +60,11 @@ public class INfo_Activity extends AppCompatActivity {
         getSupportActionBar().setTitle(R.string.app_name);//other than app name string goes the activity name
         toolbar.setTitleTextColor(Color.parseColor("#FFFFFF"));
 
+	//Sets up the circular progress bar
         circular_progress = (ProgressBar)findViewById(R.id.circular_progress);
         ayu_listview1 = (ListView)findViewById(R.id.listView);
 
+	//Sets up the list view of the basic page and links it to the intent of the details of the Car
         ayu_listview1.setOnItemClickListener(
                 new AdapterView.OnItemClickListener() {
                     @Override
@@ -84,6 +85,7 @@ public class INfo_Activity extends AppCompatActivity {
         addFirebaseEventListener();
     }
 
+//Sets up the firebase event listener which links the Firebase data on the cloud and create a list of those snapshots
     private void addFirebaseEventListener() {
         //progressing
         circular_progress.setVisibility(View.VISIBLE);
@@ -113,6 +115,7 @@ public class INfo_Activity extends AppCompatActivity {
         });
     }
 
+     //Initialises Firebase
     private void initFirebase() {
         FirebaseApp.initializeApp(this);
         mFirebaseDatabase = FirebaseDatabase.getInstance();
